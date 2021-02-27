@@ -6,3 +6,5 @@
 `make all` or `make`
 then
 `make clean` or `make fclean`
+## Notes
+- The codes work well on MacOS but need to change somethings to work on Linux.
